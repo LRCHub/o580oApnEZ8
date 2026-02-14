@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "カクレンボ",
+  "base_artist": "YAMORI",
+  "createdAt": "2026-02-14T12:02:47.269300Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カクレンボ",
+      "artist": "CAPSULE",
+      "has_synced": false,
+      "path": "select/01_カクレンボ_CAPSULE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "隠恋慕 -カクレンボ-",
+      "artist": "DECO*27 feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_隠恋慕_-カクレンボ-_DECO_27_feat._初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カクレンボ (feat. Shin Sakiura)",
+      "artist": "YAMORI",
+      "has_synced": false,
+      "path": "select/pl_01_カクレンボ_(feat._Shin_Sakiura)_YAMORI.txt"
+    }
+  ]
+}
